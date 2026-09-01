@@ -1,0 +1,20 @@
+name: elements-of-style
+version: 1.0.0
+description: Writing guidance based on William Strunk Jr.'s The Elements of Style (1918)
+author:
+  name: Jesse Vincent
+  url: https://github.com/obra
+license: Public Domain
+repository: https://github.com/obra/elements-of-style
+homepage: https://github.com/obra/elements-of-style
+keywords:
+  - writing
+  - style
+  - grammar
+  - composition
+  - clarity
+# Every harness everyharness targets discovers skills natively, and this
+# plugin ships exactly one skill with a description that already says when to
+# invoke it. A session-start injection would buy nothing and cost context in
+# every session.
+bootstrap: none

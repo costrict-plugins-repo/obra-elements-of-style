@@ -1,0 +1,20 @@
+{
+  "name": "elements-of-style-dev",
+  "description": "Development marketplace for elements-of-style",
+  "plugins": [
+    {
+      "name": "elements-of-style",
+      "description": "Writing guidance based on William Strunk Jr.'s The Elements of Style (1918)",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Jesse Vincent",
+        "url": "https://github.com/obra"
+      }
+    }
+  ],
+  "owner": {
+    "name": "Jesse Vincent",
+    "url": "https://github.com/obra"
+  }
+}

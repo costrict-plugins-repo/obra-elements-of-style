@@ -1,0 +1,19 @@
+{
+  "name": "elements-of-style-dev",
+  "interface": {
+    "displayName": "elements-of-style"
+  },
+  "plugins": [
+    {
+      "name": "elements-of-style",
+      "source": {
+        "source": "url",
+        "url": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      }
+    }
+  ]
+}
